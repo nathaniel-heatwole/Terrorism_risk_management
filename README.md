@@ -2,7 +2,7 @@ SUMMARY
 
 • Cost-effectiveness evaluation of protecting buildings from vehicle bomb attacks
 
-• Refines/extends my dissertation research, using considerably improved methods and data
+• Refines/extends my dissertation research, using considerably improved methods and data, and with results that are much more useful for decision-making
 
 MAJOR COMPONENTS
 
@@ -10,9 +10,9 @@ MAJOR COMPONENTS
 
 • New models: loss ratio-based vulnerability model, constant elasticity model, copula-like model, and models adapted from earthquake and nuclear hazards
 
-• Includes both discrete models (based on a small number of discrete building damage levels) and continuous model forms (using a continuous spectrum of hazard exposure)
+• Includes both discrete models (based on a small number of discrete building damage levels) and continuous forms (using a continuous spectrum of hazard exposure)
 
-• Critically examines the assumptions underlying and processes used to generate each model, maximizes comparability of the model outputs, and ensures iso-variation across models (homoscedasticity)
+• Critically examines processes used to generate each model and its underlying assumptions, maximizes comparability of the model outputs, and ensures iso-variation across models (homoscedasticity)
 
 • Model diagnostics and examines the predictions and implications (throughout the sample space, for edge cases, and out-of-sample test cases)
 
