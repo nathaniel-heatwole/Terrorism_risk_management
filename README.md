@@ -16,7 +16,7 @@ MAJOR COMPONENTS
 
 • Model diagnostics and examines the predictions and implications (throughout sample space, for edge cases, and out-of-sample test cases)
 
-• Collecting empirical data related to frequency, damages, and costs, to tune the models and test their predictions
+• Collecting empirical frequency/damage/cost data, to tune the models and test their predictions
 
 • Threat scenario analysis (bomb size/standoff distance) and target specifications (building type, location, construction materials, dimensions, replacement cost, and occupant density)
 
@@ -26,7 +26,7 @@ MAJOR COMPONENTS
 
 • Setting up and running the simulation model (in Python)
 
-• Generates damage distributions and "standard risk estimate" (expected value of damages)
+• Damage distributions and "standard risk estimate" (expected value of damages)
 
 • Cost-effectiveness results and implications for risk management and policy
 
