@@ -2,7 +2,7 @@ SUMMARY
 
 • Cost-effectiveness evaluation of protecting buildings from vehicle bomb attacks
 
-• Refines/extends my dissertation research, using improved methods and data, and with results that are more useful for decision-making
+• Refines/extends my dissertation research – using improved methods and data, and with results that are more useful for decision-making
 
 MAJOR COMPONENTS
 
