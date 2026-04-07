@@ -10,7 +10,7 @@ MAJOR COMPONENTS
 
 • New models: loss ratio-based vulnerability model, constant elasticity model, copula-like model, and models adapted from earthquake and nuclear hazards
 
-• Includes both discrete models (based on a small number of discrete building damage levels) and continuous forms (using a continuous spectrum of hazard exposure)
+• Encompasses both discrete models (based on a small number of discrete building damage levels) and continuous forms (using a continuous spectrum of hazard exposure)
 
 • Critically examines processes used to generate each model and its underlying assumptions, maximizes comparability of the model outputs, and ensures iso-variation across models (homoscedasticity)
 
