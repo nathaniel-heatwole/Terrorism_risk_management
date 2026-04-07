@@ -6,15 +6,15 @@ SUMMARY
 
 MAJOR COMPONENTS
 
-• Reviews existing and developes new damage models (deaths, injuries, property, and business interruption)
+• Reviews existing and developes additional damage models (deaths, injuries, property, and business interruption)
 
 • New models: loss ratio-based vulnerability model, constant elasticity model, copula-like model, and models adapted from earthquake and nuclear hazards
 
 • Includes both discrete models (based on a small number of discrete building damage levels) and continuous model forms (using a continuous spectrum of hazard exposure)
 
-• Critically examines processes used to generate and assumptions underlying each model, and maximizes the comparability of their outputs
+• Critically examines the assumptions underlying and processes used to generate each model, maximizes comparability of the model outputs, and ensures iso-variation across models (homoscedasticity)
 
-• Model diagnostics and examines the predictions and implications (throughout sample space, edge cases, and out-of-sample test cases)
+• Model diagnostics and examines the predictions and implications (throughout the sample space, for edge cases, and out-of-sample test cases)
 
 • Collecting empirical data related to frequency, damages, and costs, to tune the models and test their predictions
 
