@@ -18,7 +18,7 @@ MAJOR COMPONENTS
 
 • Collecting empirical frequency/damage/cost data, to tune the models and test their predictions
 
-• Threat scenario analysis (bomb size/standoff distance) and target specifications (building type, location, construction materials, dimensions, replacement cost, and occupant density)
+• Threat scenario analysis (bomb size/standoff distance) and target specifications (location, construction materials, dimensions, replacement cost, and occupant density)
 
 • Attack likelihood, deterrence value (reduced attack probability with the mitigation in place), and applying the probabilistic risk analysis framework
 
