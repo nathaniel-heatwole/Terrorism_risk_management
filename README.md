@@ -16,7 +16,7 @@ MAJOR COMPONENTS
 
 • Model diagnostics and examines the predictions and implications (throughout the sample space, at the boundary conditions, and for out-of-sample test cases)
 
-• Collects empirical data related to frequency, damages, and costs, to tune the models and test their predictions
+• Collecting empirical data related to frequency, damages, and costs, to tune the models and test their predictions
 
 • Threat scenario analysis (bomb size/standoff distance) and target specifications (building type, location, construction materials, size, replacement cost, and occupant density)
 
@@ -28,7 +28,7 @@ MAJOR COMPONENTS
 
 • Generates damage distributions and "standard risk estimate" (expected value of damages)
 
-• Discusses implications of cost-effectiveness results for risk management and policy
+• Cost-effectiveness results and implications for risk management and policy
 
 TOOLS USED
 
