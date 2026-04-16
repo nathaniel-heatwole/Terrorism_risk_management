@@ -2,31 +2,29 @@ SUMMARY
 
 • Cost-effectiveness evaluation of protecting buildings from vehicle bomb attacks
 
-• Refines/extends my dissertation research – using improved methods and data, and with results that are more useful for decision-making
+• Provides key information for risk managers and policy-makers on the magnitudes of risks, consequences, economic impact, mitigation cost, and cost-effectiveness
+
+• Develops several new consequence models (deaths, injuries, property damage, and business interruption) and compares them to other available models
+
+• New models: (1) loss ratio-based vulnerability model; (2) constant elasticity model; (3) copula-like model; and (4) models adapted from earthquake and nuclear hazards
 
 MAJOR COMPONENTS
 
-• Reviews existing and developes additional damage models (deaths, injuries, property, and business interruption)
+• Includes both discrete consequence models (using a small number of discrete building damage levels) and continuous forms (based on a continuous spectrum of hazard exposure)
 
-• New models: loss ratio-based vulnerability model, constant elasticity model, copula-like model, and models adapted from earthquake and nuclear hazards
+• Critically examines the assumptions/processes underlying each model, maximizes comparability of their outputs, and ensures iso-variation across models (homoscedasticity)
 
-• Encompasses both discrete models (based on a small number of discrete building damage levels) and continuous forms (using a continuous spectrum of hazard exposure)
+• Collecting empirical frequency/damage/cost data to tune the models and test their predictions
 
-• Critically examines processes used to generate each model and its underlying assumptions, maximizes comparability of the outputs, and ensures iso-variation across models (homoscedasticity)
-
-• Model diagnostics and examines the predictions and implications (throughout sample space, for edge cases, and out-of-sample test cases)
-
-• Collecting empirical frequency/damage/cost data, to tune the models and test the predictions
+• Model diagnostics and examining the predictions (throughout sample space, edge cases, and out-of-sample test cases)
 
 • Threat scenario analysis (bomb size/standoff distance) and target specifications (location, construction materials, dimensions, replacement cost, and occupant density)
 
 • Attack likelihood, deterrence value (reduced attack probability with the mitigation in place), and probabilistic risk analysis framework
 
-• Life-safety and cost-effectiveness metrics development (variations of dollars per life-saved, with offsets accounting for non-fatal injuries and avoided property-related damages)
+• Life-safety and cost-effectiveness metrics development (dollars per life-saved, with variations accounting for non-fatal injuries and avoided property-related costs)
 
-• Setting up and running the simulation model (in Python)
-
-• Damage distributions and "standard risk estimate" (expected value of damages)
+• Consequence distributions and "standard risk estimate" (expected value)
 
 • Cost-effectiveness results and implications for risk management and policy
 
