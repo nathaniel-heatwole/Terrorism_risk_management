@@ -8,6 +8,8 @@ SUMMARY
 
 • Includes both discrete consequence models (based on discrete building damage levels) and continuous forms (assuming a continuous spectrum of hazard exposure)
 
+• Encompasses impacts both to the target building and elsewhere (outside the target building)
+
 • Develops several new models and compares them to existing models (assumptions underlying each, model diagnostics, and predictions throughout the sample space and for edge cases)
 
 • New models developed: (1) loss ratio-based; (2) elasticity-based; (3) copula-like; (4) models adapted from earthquake and nuclear hazards; and (5) deterrence value
