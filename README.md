@@ -8,15 +8,15 @@ SUMMARY
 
 • Models include discrete types (using handful of building damage levels) and continuous forms (assuming continuous spectrum of hazard exposure)
 
-• Develops several new models and compares them to existing models (model diagnostics and predictions throughout the sample space and for edge cases)
-
 • New models developed: loss ratio-based, elasticity-based, copula-like, models adapted from earthquake and nuclear hazards, and deterrence value
+
+• Compares new models to existing models (model diagnostics, predictions throughout the sample space and for edge cases, underlying assumptions, and application areas)
 
 • Predicts impacts occurring to both target building and offsite (outside target building)
 
 • Maximizes comparability of the various model outputs and ensure iso-variation across models (homoscedasticity)
 
-• Risk model considers both reduction in damages, and reduced attack probability (deterrence value - quantified using information from the criminal justice literature)
+• Risk models consider both reduction in damages, and reduced attack probability (deterrence value, quantified using information from the criminal justice literature)
 
 • Develops life-safety and cost-effectiveness metrics (dollars per life-saved, with offsets accounting for the impacts of non-fatal injuries and avoided property-related damages)
 
