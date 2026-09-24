@@ -1,18 +1,18 @@
 SUMMARY
 
-• Quantitative risk analysis and cost-effectiveness evaluation of vehicle barriers and setback distance to protect high-risk buildings from vehicle bomb attacks
+• Quantitative risk analysis and cost-effectiveness evaluation of using vehicle barriers and setback distance to protect high-risk buildings from vehicle bomb attacks
 
 • Provides key information for risk managers related to risks, consequences, economic impacts, and scenarios where the mitigation is cost-worthwhile
 
 • Impacts modeled: deaths, injuries (light, severe, overall), property damage, and business interruption losses
 
-• Models include discrete types (using small number of building damage levels) and continuous forms (assuming continuous spectrum of hazard exposure)
-
-• Predicts impacts occurring to both target building and offsite (outside target building)
+• Models include discrete types (using handful of building damage levels) and continuous forms (assuming continuous spectrum of hazard exposure)
 
 • Develops several new models and compares them to existing models (model diagnostics and predictions throughout the sample space and for edge cases)
 
 • New models developed: loss ratio-based, elasticity-based, copula-like, models adapted from earthquake and nuclear hazards, and deterrence value
+
+• Predicts impacts occurring to both target building and offsite (outside target building)
 
 • Maximizes comparability of the various model outputs and ensure iso-variation across models (homoscedasticity)
 
